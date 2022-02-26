@@ -1,3 +1,9 @@
 div{
-    background-color: rgb(9, 8, 9);
+    background-color: #a1b5cb; 
+}
+
+app-comunicacion{
+    float: right;
+    margin: 20px;
+    margin-right: 200px;
 }
